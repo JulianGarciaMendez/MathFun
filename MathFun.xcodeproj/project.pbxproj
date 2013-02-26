@@ -15,6 +15,20 @@
 		9EA7596D1591355500AB5599 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA7596C1591355500AB5599 /* AppDelegate.m */; };
 		9EA759701591355500AB5599 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7596E1591355500AB5599 /* MainStoryboard.storyboard */; };
 		9EA759731591355500AB5599 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA759721591355500AB5599 /* ViewController.m */; };
+		9EA7597B1591356C00AB5599 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA7597A1591356C00AB5599 /* AboutViewController.m */; };
+		9EA7597E1591358300AB5599 /* PlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA7597D1591358300AB5599 /* PlayViewController.m */; };
+		9EA759861591376700AB5599 /* glyphicons_020_home.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA759851591376700AB5599 /* glyphicons_020_home.png */; };
+		9EA7598815913B2100AB5599 /* glyphicons_210_left_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7598715913B2100AB5599 /* glyphicons_210_left_arrow.png */; };
+		9EA7598F15913BB200AB5599 /* glyphicons_206_ok_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7598D15913BB200AB5599 /* glyphicons_206_ok_2.png */; };
+		9EA7599615913DDB00AB5599 /* C.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7599115913DDB00AB5599 /* C.png */; };
+		9EA7599715913DDB00AB5599 /* divide.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7599215913DDB00AB5599 /* divide.png */; };
+		9EA7599815913DDB00AB5599 /* times.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7599315913DDB00AB5599 /* times.png */; };
+		9EA7599915913DDB00AB5599 /* minus.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7599415913DDB00AB5599 /* minus.png */; };
+		9EA7599A15913DDB00AB5599 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7599515913DDB00AB5599 /* plus.png */; };
+		9EA75A8C159978DC00AB5599 /* remove.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA75A8B159978DC00AB5599 /* remove.png */; };
+		9EA75A9A159A025200AB5599 /* bioPic_Jim.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA75A99159A025200AB5599 /* bioPic_Jim.png */; };
+		9EA75A9C159A043E00AB5599 /* math-graphic-post.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA75A9B159A043E00AB5599 /* math-graphic-post.png */; };
+		9EA75A9F159A0D2400AB5599 /* ScoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA75A9E159A0D2400AB5599 /* ScoreViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +36,32 @@
 		9EA7595C1591355500AB5599 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9EA7595E1591355500AB5599 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9EA759601591355500AB5599 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		9EA759641591355500AB5599 /* MathFun-Info.plist */ = {isa = PBXFileReference; path = "MathFun-Info.plist"; sourceTree = "<group>"; };
+		9EA759641591355500AB5599 /* MathFun-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MathFun-Info.plist"; sourceTree = "<group>"; };
 		9EA759661591355500AB5599 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9EA759681591355500AB5599 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9EA7596A1591355500AB5599 /* MathFun-Prefix.pch */ = {isa = PBXFileReference; path = "MathFun-Prefix.pch"; sourceTree = "<group>"; };
-		9EA7596B1591355500AB5599 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		9EA7596A1591355500AB5599 /* MathFun-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MathFun-Prefix.pch"; sourceTree = "<group>"; };
+		9EA7596B1591355500AB5599 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9EA7596C1591355500AB5599 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		9EA7596F1591355500AB5599 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		9EA759711591355500AB5599 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		9EA759711591355500AB5599 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		9EA759721591355500AB5599 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		9EA759791591356C00AB5599 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		9EA7597A1591356C00AB5599 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		9EA7597C1591358300AB5599 /* PlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayViewController.h; sourceTree = "<group>"; };
+		9EA7597D1591358300AB5599 /* PlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayViewController.m; sourceTree = "<group>"; };
+		9EA759851591376700AB5599 /* glyphicons_020_home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = glyphicons_020_home.png; sourceTree = "<group>"; };
+		9EA7598715913B2100AB5599 /* glyphicons_210_left_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = glyphicons_210_left_arrow.png; sourceTree = "<group>"; };
+		9EA7598D15913BB200AB5599 /* glyphicons_206_ok_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = glyphicons_206_ok_2.png; sourceTree = "<group>"; };
+		9EA7599115913DDB00AB5599 /* C.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C.png; sourceTree = "<group>"; };
+		9EA7599215913DDB00AB5599 /* divide.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = divide.png; sourceTree = "<group>"; };
+		9EA7599315913DDB00AB5599 /* times.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = times.png; sourceTree = "<group>"; };
+		9EA7599415913DDB00AB5599 /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
+		9EA7599515913DDB00AB5599 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		9EA75A8B159978DC00AB5599 /* remove.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = remove.png; sourceTree = "<group>"; };
+		9EA75A99159A025200AB5599 /* bioPic_Jim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bioPic_Jim.png; sourceTree = "<group>"; };
+		9EA75A9B159A043E00AB5599 /* math-graphic-post.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "math-graphic-post.png"; sourceTree = "<group>"; };
+		9EA75A9D159A0D2400AB5599 /* ScoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScoreViewController.h; sourceTree = "<group>"; };
+		9EA75A9E159A0D2400AB5599 /* ScoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScoreViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +114,12 @@
 				9EA759711591355500AB5599 /* ViewController.h */,
 				9EA759721591355500AB5599 /* ViewController.m */,
 				9EA759631591355500AB5599 /* Supporting Files */,
+				9EA759791591356C00AB5599 /* AboutViewController.h */,
+				9EA7597A1591356C00AB5599 /* AboutViewController.m */,
+				9EA7597C1591358300AB5599 /* PlayViewController.h */,
+				9EA7597D1591358300AB5599 /* PlayViewController.m */,
+				9EA75A9D159A0D2400AB5599 /* ScoreViewController.h */,
+				9EA75A9E159A0D2400AB5599 /* ScoreViewController.m */,
 			);
 			path = MathFun;
 			sourceTree = "<group>";
@@ -90,6 +127,17 @@
 		9EA759631591355500AB5599 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9EA75A9B159A043E00AB5599 /* math-graphic-post.png */,
+				9EA75A99159A025200AB5599 /* bioPic_Jim.png */,
+				9EA75A8B159978DC00AB5599 /* remove.png */,
+				9EA7599115913DDB00AB5599 /* C.png */,
+				9EA7599215913DDB00AB5599 /* divide.png */,
+				9EA7599315913DDB00AB5599 /* times.png */,
+				9EA7599415913DDB00AB5599 /* minus.png */,
+				9EA7599515913DDB00AB5599 /* plus.png */,
+				9EA7598D15913BB200AB5599 /* glyphicons_206_ok_2.png */,
+				9EA7598715913B2100AB5599 /* glyphicons_210_left_arrow.png */,
+				9EA759851591376700AB5599 /* glyphicons_020_home.png */,
 				9EA759641591355500AB5599 /* MathFun-Info.plist */,
 				9EA759651591355500AB5599 /* InfoPlist.strings */,
 				9EA759681591355500AB5599 /* main.m */,
@@ -151,6 +199,17 @@
 			files = (
 				9EA759671591355500AB5599 /* InfoPlist.strings in Resources */,
 				9EA759701591355500AB5599 /* MainStoryboard.storyboard in Resources */,
+				9EA759861591376700AB5599 /* glyphicons_020_home.png in Resources */,
+				9EA7598815913B2100AB5599 /* glyphicons_210_left_arrow.png in Resources */,
+				9EA7598F15913BB200AB5599 /* glyphicons_206_ok_2.png in Resources */,
+				9EA7599615913DDB00AB5599 /* C.png in Resources */,
+				9EA7599715913DDB00AB5599 /* divide.png in Resources */,
+				9EA7599815913DDB00AB5599 /* times.png in Resources */,
+				9EA7599915913DDB00AB5599 /* minus.png in Resources */,
+				9EA7599A15913DDB00AB5599 /* plus.png in Resources */,
+				9EA75A8C159978DC00AB5599 /* remove.png in Resources */,
+				9EA75A9A159A025200AB5599 /* bioPic_Jim.png in Resources */,
+				9EA75A9C159A043E00AB5599 /* math-graphic-post.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,6 +223,9 @@
 				9EA759691591355500AB5599 /* main.m in Sources */,
 				9EA7596D1591355500AB5599 /* AppDelegate.m in Sources */,
 				9EA759731591355500AB5599 /* ViewController.m in Sources */,
+				9EA7597B1591356C00AB5599 /* AboutViewController.m in Sources */,
+				9EA7597E1591358300AB5599 /* PlayViewController.m in Sources */,
+				9EA75A9F159A0D2400AB5599 /* ScoreViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +337,7 @@
 				9EA759781591355500AB5599 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
