@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6552704F-1238-4B4C-91C6-D8C332C4E22C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MathFun</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>39C9B0CB61D5E963E92F5342FCE90A0CD3EBC9DC</key>
+		<string>https://github.com/JimmyCDChen/MathFun.git</string>
+		<key>A5278A414A790D25865C1F04508E15C9BF127D7B</key>
+		<string>https://github.com/Akshay-Srivatsan/Make-Hacks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MathFun.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>39C9B0CB61D5E963E92F5342FCE90A0CD3EBC9DC</key>
+		<string>../..</string>
+		<key>A5278A414A790D25865C1F04508E15C9BF127D7B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JimmyCDChen/MathFun.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>39C9B0CB61D5E963E92F5342FCE90A0CD3EBC9DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A5278A414A790D25865C1F04508E15C9BF127D7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>39C9B0CB61D5E963E92F5342FCE90A0CD3EBC9DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MathFun</string>
+		</dict>
+	</array>
+</dict>
+</plist>
