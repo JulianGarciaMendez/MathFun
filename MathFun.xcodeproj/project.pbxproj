@@ -29,6 +29,7 @@
 		9EA75A9A159A025200AB5599 /* bioPic_Jim.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA75A99159A025200AB5599 /* bioPic_Jim.png */; };
 		9EA75A9C159A043E00AB5599 /* math-graphic-post.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA75A9B159A043E00AB5599 /* math-graphic-post.png */; };
 		9EA75A9F159A0D2400AB5599 /* ScoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA75A9E159A0D2400AB5599 /* ScoreViewController.m */; };
+		BB44B5621AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png in Resources */ = {isa = PBXBuildFile; fileRef = BB44B5611AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		9EA75A9B159A043E00AB5599 /* math-graphic-post.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "math-graphic-post.png"; sourceTree = "<group>"; };
 		9EA75A9D159A0D2400AB5599 /* ScoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScoreViewController.h; sourceTree = "<group>"; };
 		9EA75A9E159A0D2400AB5599 /* ScoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScoreViewController.m; sourceTree = "<group>"; };
+		BB44B5611AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "16027-illustration-of-a-3d-bar-chart-pv.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				9EA75A8B159978DC00AB5599 /* remove.png */,
 				9EA7599115913DDB00AB5599 /* C.png */,
 				9EA7599215913DDB00AB5599 /* divide.png */,
+				BB44B5611AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png */,
 				9EA7599315913DDB00AB5599 /* times.png */,
 				9EA7599415913DDB00AB5599 /* minus.png */,
 				9EA7599515913DDB00AB5599 /* plus.png */,
@@ -210,6 +213,7 @@
 				9EA75A8C159978DC00AB5599 /* remove.png in Resources */,
 				9EA75A9A159A025200AB5599 /* bioPic_Jim.png in Resources */,
 				9EA75A9C159A043E00AB5599 /* math-graphic-post.png in Resources */,
+				BB44B5621AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
