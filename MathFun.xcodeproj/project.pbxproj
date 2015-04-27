@@ -29,7 +29,11 @@
 		9EA75A9A159A025200AB5599 /* bioPic_Jim.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA75A99159A025200AB5599 /* bioPic_Jim.png */; };
 		9EA75A9C159A043E00AB5599 /* math-graphic-post.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EA75A9B159A043E00AB5599 /* math-graphic-post.png */; };
 		9EA75A9F159A0D2400AB5599 /* ScoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA75A9E159A0D2400AB5599 /* ScoreViewController.m */; };
+<<<<<<< Updated upstream
 		BB44B5621AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png in Resources */ = {isa = PBXBuildFile; fileRef = BB44B5611AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png */; };
+=======
+		B9CEA7E81AED85E100E2EAD4 /* MakeSchool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9CEA7E71AED85E100E2EAD4 /* MakeSchool.jpg */; };
+>>>>>>> Stashed changes
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,7 +67,11 @@
 		9EA75A9B159A043E00AB5599 /* math-graphic-post.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "math-graphic-post.png"; sourceTree = "<group>"; };
 		9EA75A9D159A0D2400AB5599 /* ScoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScoreViewController.h; sourceTree = "<group>"; };
 		9EA75A9E159A0D2400AB5599 /* ScoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScoreViewController.m; sourceTree = "<group>"; };
+<<<<<<< Updated upstream
 		BB44B5611AED854D002608F6 /* 16027-illustration-of-a-3d-bar-chart-pv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "16027-illustration-of-a-3d-bar-chart-pv.png"; sourceTree = "<group>"; };
+=======
+		B9CEA7E71AED85E100E2EAD4 /* MakeSchool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MakeSchool.jpg; sourceTree = "<group>"; };
+>>>>>>> Stashed changes
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +137,7 @@
 		9EA759631591355500AB5599 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B9CEA7E71AED85E100E2EAD4 /* MakeSchool.jpg */,
 				9EA75A9B159A043E00AB5599 /* math-graphic-post.png */,
 				9EA75A99159A025200AB5599 /* bioPic_Jim.png */,
 				9EA75A8B159978DC00AB5599 /* remove.png */,
@@ -203,6 +212,7 @@
 				9EA759671591355500AB5599 /* InfoPlist.strings in Resources */,
 				9EA759701591355500AB5599 /* MainStoryboard.storyboard in Resources */,
 				9EA759861591376700AB5599 /* glyphicons_020_home.png in Resources */,
+				B9CEA7E81AED85E100E2EAD4 /* MakeSchool.jpg in Resources */,
 				9EA7598815913B2100AB5599 /* glyphicons_210_left_arrow.png in Resources */,
 				9EA7598F15913BB200AB5599 /* glyphicons_206_ok_2.png in Resources */,
 				9EA7599615913DDB00AB5599 /* C.png in Resources */,
